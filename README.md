@@ -1,8 +1,6 @@
 # Sales-Dashboard-Power-BI
 An interactive Power BI dashboard that analyzes sales performance from 2020 to 2022 across product categories, countries, and time periods.
 
-Dashboard
-
 Objective
 
 Give decision-makers a clear view of total sales, average sales, and profit, and let them explore the results by year, country, and customer income level.
